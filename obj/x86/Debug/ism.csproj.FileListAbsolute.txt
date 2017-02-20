@@ -1,0 +1,8 @@
+C:\Users\guthe\AppData\Local\Temporary Projects\ism\bin\Debug\ism.exe
+C:\Users\guthe\AppData\Local\Temporary Projects\ism\bin\Debug\ism.pdb
+C:\Users\guthe\AppData\Local\Temporary Projects\ism\obj\x86\Debug\ism.exe
+C:\Users\guthe\AppData\Local\Temporary Projects\ism\obj\x86\Debug\ism.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\ism\obj\x86\Debug\ism.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\ism\obj\x86\Debug\ism.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\ism\bin\Debug\ism.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\ism\bin\Debug\ism.pdb
